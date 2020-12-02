@@ -1,8 +1,8 @@
 # vytvorit vlastni (jednoduchou) kalkulacku
 
 # zadavani cisel
-a = int(input("Sem zadejte první číslo: a = "))
-b = int(input("Sem zadejte druhe číslo: b = "))
+a = float(input("Sem zadejte první číslo: a = "))
+b = float(input("Sem zadejte druhe číslo: b = "))
 
 # definujeme 5 zakladnich operaci - scitani, odcitani, nasobeni, deleni, mocnina
 
